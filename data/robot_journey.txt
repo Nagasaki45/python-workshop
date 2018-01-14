@@ -1,0 +1,6 @@
+North 100
+East 200
+South 20
+East 50
+North 100
+West 30
